@@ -4,6 +4,11 @@ Web Dashoard Rumah dibangun dengan bahasa pemograman HTML, CSS, PHP menggunakan 
 email : admin@test.com
 password : admin123
 
+# How to run?
+npm install
+npm run dev
+php artisan serve
+
 # HomePage
 <img width="948" alt="image" src="https://user-images.githubusercontent.com/60659161/184159671-efd33cc6-96e7-4c4d-84e5-c7a255bb053e.png">
 # Dashboard 
