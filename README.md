@@ -1,5 +1,9 @@
 # DOTTest
 Web Dashoard Rumah dibangun dengan bahasa pemograman HTML, CSS, PHP menggunakan framework Laravel 9 di kombinasi dengan Ekosistem Breeze React JS , Inertia Javascript , Tailwind DaisyUI &amp; MYSQL
+
+email : admin@test.com
+password : admin123
+
 # HomePage
 <img width="948" alt="image" src="https://user-images.githubusercontent.com/60659161/184159671-efd33cc6-96e7-4c4d-84e5-c7a255bb053e.png">
 # Dashboard 
