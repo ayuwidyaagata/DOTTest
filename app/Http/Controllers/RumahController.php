@@ -35,7 +35,7 @@ class RumahController extends Controller
      */
     public function create()
     {
-        //
+        return inertia::render('FormRumah');
     }
 
     /**

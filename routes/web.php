@@ -19,6 +19,9 @@ Route::get('/', [Controllers\RumahController::class, 'index']);
 Route::get('/data-rumah', [Controllers\RumahController::class, 'datarumah']);
 Route::get('/data-penjual', [Controllers\RumahController::class, 'datapenjual']);
 
+Route::get('/form-rumah', [Controllers\RumahController::class, 'formrumah']);
+Route::get('/form-penjual', [Controllers\RumahController::class, 'formpenjual']);
+
 Route::get('welcome', function () {
     return Inertia::render('Welcome', [
         'canLogin' => Route::has('login'),

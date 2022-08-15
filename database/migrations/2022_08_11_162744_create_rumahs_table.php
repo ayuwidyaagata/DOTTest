@@ -14,7 +14,13 @@ return new class extends Migration
     public function up()
     {
         Schema::create('rumahs', function (Blueprint $table) {
-            $table->id();
+            $table->bigInteger('id_rumah');
+            $table->bigInteger('id_penjual')->unsigned()->unique();
+            $table->bigInteger('id_penjual')->references('id')->on('users')->onUpdate('cascade')->onDelete('cascade');
+            $table->string('nama');
+            $table->string('lokasi');
+            $table->string('harga');
+            $table->text('deskripsi');
             $table->timestamps();
         });
     }

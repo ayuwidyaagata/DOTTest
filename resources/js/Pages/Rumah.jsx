@@ -42,7 +42,7 @@ export default function Rumah(props) {
                             No
                         </th>
                         <th scope="col" className="text-sm font-bold text-gray-900 px-6 py-4">
-                            Nama
+                            Nama Rumah
                         </th>
                         <th scope="col" className="text-sm font-bold text-gray-900 px-6 py-4">
                             Harga
