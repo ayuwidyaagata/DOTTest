@@ -21,4 +21,6 @@ php artisan serve
 
 # Dashboard 
 <img width="943" alt="image" src="https://user-images.githubusercontent.com/60659161/184160065-05e47dc1-dd2e-47a9-b97e-74cdfe69c1b9.png">
-Dengan fitur CRUD pada database yang berelasi 
+Dengan fitur CRUD pada database yang berelasi, antara tabel data rumah dengan tabel data penjual
+<img width="946" alt="image" src="https://user-images.githubusercontent.com/60659161/184622424-cd838f83-4b8d-4d46-84b4-916d8ead1de7.png">
+
