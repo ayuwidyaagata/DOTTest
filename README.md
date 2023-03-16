@@ -1,4 +1,4 @@
-# DOTTest
+# Hunian
 Web Dashoard Hunian atau Rumah yang dibangun dengan bahasa pemograman HTML, CSS, PHP menggunakan framework Laravel 9 di kombinasi dengan ekosistem Breeze React JS , Inertia Javascript , Tailwind DaisyUI &amp; MYSQL
 
 email : admin@test.com <br />
@@ -6,7 +6,7 @@ password : admin123
 
 # How to use?
 ```
-git clone https://github.com/ayuwidyaagata/DOTTest.git
+git clone https://github.com/ayuwidyaagata/hunian.git
 ```
 
 # How to install & run?
